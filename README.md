@@ -1,10 +1,11 @@
 # Foundation Layout
 
-<h1><a href="https://jupdiv.github.io/Foundation-Layout/">Site link</a></h1>
+<h2><a href="https://jupdiv.github.io/Foundation-Layout/">Site link</a></h2>
 
 Layout supports mobile (up-to-400) and desktop (up-to-1400) versions
 
 The tech stack is:
+
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>  
